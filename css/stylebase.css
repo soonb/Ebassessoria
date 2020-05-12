@@ -1,3 +1,12 @@
-body {
-  font-family: Arial, Helvetic, sans-serif;
+/*Reset basico - que retira patroes de css dos browser*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*define o tamanho dos elementos apartir da borda interna ignorando a o margin*/
 }
+
+body {
+  font-family: arial, helvetic, sans-serif;
+}
+
