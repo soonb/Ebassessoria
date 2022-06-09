@@ -322,12 +322,12 @@ h2{
 /* tela com pelo menos 320px - carregar estes estilos */
 @media(min-width: 320px){
     body{
-     font-size: 0.7em;
+     font-size: 0.5em;
         padding: .2em;
     }
     .entrada{
-        font-size: 0.7em;
-        padding: 3em;
+        font-size: 0.5em;
+        padding: .3em;
     }
     
 footer div{
@@ -375,7 +375,7 @@ footer div{
 
 @media(min-width:400px){
     body{
-        font-size: 0.7em;
+        font-size: 0.6em;
         padding: .2em;
     }
     .img-portfolio{
