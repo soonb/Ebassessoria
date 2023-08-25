@@ -32,12 +32,13 @@ height: 50vh;
 footer ul{
    list-style: none;
 }   
-}
+
 footer div{
     width: 0 auto;
     height: 2;
     padding: 3em;
 }
+
 footer a{
     color: #477397;
 }
